@@ -1,0 +1,22 @@
+{
+  "name": "typescript-student-management-system",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhmedShaykh/TypeScript-Student-Management-System.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AhmedShaykh/TypeScript-Student-Management-System/issues"
+  },
+  "homepage": "https://github.com/AhmedShaykh/TypeScript-Student-Management-System#readme",
+  "devDependencies": {
+    "@types/node": "^18.11.18"
+  }
+}
